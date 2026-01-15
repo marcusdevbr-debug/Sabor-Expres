@@ -123,7 +123,7 @@ O grafo pode ser visualizado ou gerado automaticamente utilizando ferramentas co
 * Graphviz
 * Diagramas estáticos criados em ferramentas como draw.io
 
-> *Para fins de apresentação acadêmica, recomenda-se incluir uma imagem estática do grafo gerado pelo programa.*
+![alt text](image.png)
 
 ---
 
@@ -193,4 +193,4 @@ A solução foi implementada em **Python 3.x**.
    ```bash
    python otimizador_rotas.py
    ```
-![alt text](image.png)
+

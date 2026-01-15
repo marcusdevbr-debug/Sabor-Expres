@@ -173,7 +173,7 @@ A solução foi implementada em **Python 3.x**.
 1. Clone o repositório:
 
    ```bash
-   git clone <link-do-repositorio>
+   git clone <https://github.com/marcusdevbr-debug/Sabor-Expres>
    ```
 
 2. Mantenha os arquivos necessários na pasta raiz:
@@ -193,4 +193,5 @@ A solução foi implementada em **Python 3.x**.
    ```bash
    python otimizador_rotas.py
    ```
+
 
